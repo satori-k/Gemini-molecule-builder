@@ -2,6 +2,8 @@
 
 > If you have a Gemini 4 Carbon with 4 Gemini 4 Hydrogen as subagent, then you have Gemini 4 methane.
 
+![head image](https://github.com/satori-k/Gemini-molecule-builder/blob/main/toc.png?raw=true)
+
 > ## 🤡 Disclaimer — read this first
 >
 > **This is a joke.** The configuration file will not be able to be used, nor does the topology make any sense.
